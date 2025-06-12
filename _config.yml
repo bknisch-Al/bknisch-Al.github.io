@@ -28,15 +28,17 @@ url: "https://bknisch-Al.github.io" # the base hostname & protocol for your site
 github_username:  Nischal2017
 
 # Build settings
+remote_theme: riggraz/no-style-please 
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: "back" # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: true # show blog description in home page
+  lowercase_titles: false # show titles in lowercase in lists
 
 sass:
   style: compressed
-
-remote-theme: riggraz/no-style-please
-theme_config:
-  back_home_text: "go back"
-  appearance: "dark"
-  show_description: true
+  
 plugins:
   - jekyll-feed
 
