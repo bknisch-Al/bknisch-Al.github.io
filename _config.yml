@@ -28,8 +28,13 @@ url: "https://bknisch-Al.github.io" # the base hostname & protocol for your site
 github_username:  Nischal2017
 
 # Build settings
-theme: no-style-please
+
+sass:
+  style: compressed
+
+remote-theme: riggraz/no-style-please
 theme_config:
+  back_home_text: "go back"
   appearance: "dark"
   show_description: true
 plugins:
