@@ -1,0 +1,13 @@
+entries:
+  - title: About
+    url: /about/
+  - title: Work Experience
+    url: /workex/
+  - title: Skills
+    url: /skills/
+  - title: Projects
+    url: /projects/
+  - title: Papers
+    url: /papers/
+  - title: Contact
+    url: /contact/
