@@ -4,8 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-# Technical Projects
-
 ## Multi-Agent Reasoning System
 **LangGraph · LLAMA 2/3 · Case-Based Reasoning**  
 Developed state-of-the-art reasoning workflow using LangGraph that matches o1-mini performance with 3x API cost reduction. Implemented interpretable case-based reasoning and automated index generation using LLAMA 2-70b/LLAMA 3-70b. Deployed on HPE Cray EX clusters (Big Red 200) with Python/C++ implementations.  

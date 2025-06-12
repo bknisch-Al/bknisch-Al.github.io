@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Work Experience
 permalink: /workex/
 ---
-
-### Work Experience
 
 A brief summary of my professional career so far:  
 [Resume](/assets/resume.pdf)

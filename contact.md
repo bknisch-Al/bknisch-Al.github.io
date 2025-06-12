@@ -1,9 +1,8 @@
 ---
 layout: page
+title: 📬 Get in Touch
 permalink: /contact/
 ---
-
-# 📬 Get in Touch
 
 I welcome discussions about:
 - AI research collaborations
