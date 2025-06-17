@@ -4,7 +4,7 @@ permalink: /about/
 ---
 <!-- 
 I am a computer scientist who loves hard engineering problems, AI and pizza! I live in *Indiana*, but I grew up in *Bangalore*. -->
-![Nischal]({{ "/assets/about.png" | relative_url }}){: style="width: 150px; height: 150px; object-fit: cover; display: block; margin-left: 0; text-align: left;"}
+![Nischal]({{ "/assets/about1.jpeg" | relative_url }}){: style="width: 150px; height: 150px; object-fit: cover; display: block; margin-left: 0; text-align: left;"}
 
 # About
 I'm a computer scientist who gets excited about hard engineering problems, cutting-edge AI research, and the perfect slice of pizza! Originally from India, now calling Indiana home.
